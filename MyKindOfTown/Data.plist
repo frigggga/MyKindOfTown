@@ -6,6 +6,42 @@
 	<array>
 		<dict>
 			<key>name</key>
+			<string>Paws Chicago</string>
+			<key>description</key>
+			<string>A cute and warm animal shelter for dogs and cats</string>
+			<key>lat</key>
+			<real>41.9177183</real>
+			<key>long</key>
+			<real>-87.6586726</real>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TenGoku Aburiya</string>
+			<key>description</key>
+			<string>Sushi and Skiyaki!!! --&gt;Go</string>
+			<key>lat</key>
+			<real>41.8831668</real>
+			<key>long</key>
+			<real>-87.6441877</real>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>lat</key>
+			<real>41.8855351</real>
+			<key>long</key>
+			<real>-87.6275442</real>
+			<key>name</key>
+			<string>Chicago Theater</string>
+			<key>description</key>
+			<string>Great place for concerts and musicals</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Wrigley Field</string>
 			<key>description</key>
 			<string>Ivy-covered walls &amp; manual scoreboard add retro charm to 2nd oldest baseball stadium in the majors.</string>
@@ -211,8 +247,8 @@
 	</array>
 	<key>region</key>
 	<array>
-		<real>41.948287</real>
-		<real>-87.655697</real>
+		<real>41.892654</real>
+		<real>-87.610168</real>
 		<real>0.00978871051851371</real>
 		<real>0.008167393319212124</real>
 	</array>

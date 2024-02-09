@@ -6,3 +6,7 @@
 //
 
 import Foundation
+
+protocol PlacesFavoritesDelegate: AnyObject {
+    func favoritePlace(name: String) -> Void
+}
